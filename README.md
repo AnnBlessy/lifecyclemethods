@@ -1,16 +1,12 @@
 # Ex.No:2 To create a HelloWorld Activity using all lifecycles methods to display messages.
 
-
 ## AIM:
-
 To create a HelloWorld Activity using all lifecycles methods to display messages using Android Studio.
 
 ## EQUIPMENTS REQUIRED:
-
 Latest Version Android Studio
 
 ## ALGORITHM:
-
 Step 1: Open Android Stdio and then click on File -> New -> New project.
 
 Step 2: Then type the Application name as HelloWorld and click Next. 
@@ -64,14 +60,11 @@ Registeration Number : 212222040008
 ### In MainActivity.java
 ```
 package com.example.methods;
-
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -116,9 +109,7 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
-
 ### In AndroidManifest.xml
-
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
@@ -149,8 +140,8 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## OUTPUT
-
-![IMG-20240311-WA0006](https://github.com/AnnBlessy/lifecyclemethods/assets/119477835/700374c4-4f0b-4c83-b53c-e643dc44e8c7)        ![IMG-20240311-WA0007](https://github.com/AnnBlessy/lifecyclemethods/assets/119477835/722cfee7-38ac-45a5-a2ee-22099ee85390)        ![IMG-20240311-WA0008](https://github.com/AnnBlessy/lifecyclemethods/assets/119477835/dc62c624-2898-442f-8e27-50e9afa09b23)        ![IMG-20240311-WA0009](https://github.com/AnnBlessy/lifecyclemethods/assets/119477835/d453911f-f345-4517-b525-ece3b36cfc1a)        ![IMG-20240311-WA0010](https://github.com/AnnBlessy/lifecyclemethods/assets/119477835/5b7c2716-0dde-49a4-b868-8fcb54aeff24)
+![IMG-20240311-WA0006](https://github.com/AnnBlessy/lifecyclemethods/assets/119477835/d5a32035-8569-416f-af00-1691f3645c10)  ![IMG-20240311-WA0007](https://github.com/AnnBlessy/lifecyclemethods/assets/119477835/97d41ee3-c5b0-4d14-a4d2-fff59783f672) ![IMG-20240311-WA0008](https://github.com/AnnBlessy/lifecyclemethods/assets/119477835/63da561b-db79-4abe-889e-de895c597247)
+![IMG-20240311-WA0009](https://github.com/AnnBlessy/lifecyclemethods/assets/119477835/a9eb0c0e-f461-41b8-ade8-a73756ee40ed) _ ![IMG-20240311-WA0010](https://github.com/AnnBlessy/lifecyclemethods/assets/119477835/bebd28a3-586e-4335-9a36-a43b0c152b78)
 
 ## RESULT
 Thus a Simple Android Application create a HelloWorld Activity using all lifecycles methods to display messages using Android Studio is developed and executed successfully.
