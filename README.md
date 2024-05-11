@@ -150,17 +150,7 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 
-![IMG-20240311-WA0009](https://github.com/AnnBlessy/lifecyclemethods/assets/119477835/5c5a3aa6-e307-404c-b2b4-bdd0e10c824a)
-
-![IMG-20240311-WA0006](https://github.com/AnnBlessy/lifecyclemethods/assets/119477835/c89ac1da-37f2-4af8-a50e-9980354bae4b)
-
-![IMG-20240311-WA0008](https://github.com/AnnBlessy/lifecyclemethods/assets/119477835/79543d2c-8175-4ffa-a477-c5d577c1cf8c)
-
-![IMG-20240311-WA0010](https://github.com/AnnBlessy/lifecyclemethods/assets/119477835/733b65b9-7e3b-401a-8e77-01c78a1f722c)
-
-![IMG-20240311-WA0007](https://github.com/AnnBlessy/lifecyclemethods/assets/119477835/e71dd5eb-9ac1-4581-894a-2a9cc2a2bf26)
-
-
+![IMG-20240311-WA0006](https://github.com/AnnBlessy/lifecyclemethods/assets/119477835/700374c4-4f0b-4c83-b53c-e643dc44e8c7)        ![IMG-20240311-WA0007](https://github.com/AnnBlessy/lifecyclemethods/assets/119477835/722cfee7-38ac-45a5-a2ee-22099ee85390)        ![IMG-20240311-WA0008](https://github.com/AnnBlessy/lifecyclemethods/assets/119477835/dc62c624-2898-442f-8e27-50e9afa09b23)        ![IMG-20240311-WA0009](https://github.com/AnnBlessy/lifecyclemethods/assets/119477835/d453911f-f345-4517-b525-ece3b36cfc1a)        ![IMG-20240311-WA0010](https://github.com/AnnBlessy/lifecyclemethods/assets/119477835/5b7c2716-0dde-49a4-b868-8fcb54aeff24)
 
 ## RESULT
 Thus a Simple Android Application create a HelloWorld Activity using all lifecycles methods to display messages using Android Studio is developed and executed successfully.
